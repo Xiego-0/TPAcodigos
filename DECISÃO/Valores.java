@@ -1,6 +1,6 @@
 package prjLista3;
 import java.util.Scanner;
-public class Idade {
+public class Valores {
 	public static void main(String []args) {
 		Scanner ler = new Scanner (System.in);
 		int valor;
@@ -16,4 +16,5 @@ public class Idade {
 			System.out.println("Número negativo");
 		}
 	}
+
 }
